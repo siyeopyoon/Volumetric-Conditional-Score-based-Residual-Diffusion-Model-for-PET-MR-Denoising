@@ -48,3 +48,10 @@ sudo docker run --shm-size=8G --rm --gpus all -v /home/example/:/external/ pet_t
 Pretrained model weights :
 https://drive.google.com/drive/folders/1jbyC63eMJE51Pz-bRBl1D28D7dqgNjfT?usp=sharing
 Please contact to author or leave the issue in github, if you have any question on model weights. 
+
+syoon5@mgh.harvard.edu 
+
+yooneige@gmail.com
+
+
+
